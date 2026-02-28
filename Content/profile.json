@@ -1,29 +1,29 @@
 {
 "About": {
-  "Name": "Robert J Zendejo",
+  "Name": "Yoav Ziklik",
   "Currently": "Computer Science Student",
   "Headshot": "student-portrait.png",
   "Thumbnail": "student-logo.webp",
-  "AboutText": "Hi, I am Bob Zendejo. I am a passionate computer science student with a keen interest in software development and programming. Currently, I am pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to expanding my knowledge and skills in various areas of computer science, with a particular focus on C++ programming.<br><br>I enjoy tackling challenging programming projects and I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>Beyond the classroom, I actively engage in extracurricular activities related to computer science, including hackathons, coding competitions, and open-source contributions. I believe in the importance of continuous learning and seek out opportunities to explore new technologies and methodologies."
+  "AboutText": "Hi, I am Yoav Ziklik. I am a passionate computer science student with a keen interest in software development, AI and programming. Currently, I am pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to expanding my knowledge and skills in various areas of computer science, with a particular focus on C++ programming.<br><br>I enjoy tackling challenging programming projects and I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>Beyond the classroom, I actively engage in extracurricular activities related to computer science, including hackathons, coding competitions, and open-source contributions. I believe in the importance of continuous learning and seek out opportunities to explore new technologies and methodologies."
 },
 "Contact": {
-  "EMail": "zendejor@spu.edu",
-  "Phone": "(206) 555-5555",
+  "EMail": "zikliky@spu.edu",
+  "Phone": "(425) 922-2002",
   "Portfolio": "https://www.github.com",
-  "LinkedIn": "https://linkedin.com",
+  "LinkedIn": "https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile",
   "GitHub": "https://www.github.com"
 },
 "Experience": {
-  "ExperienceText": "Use this area to explain how you got to where you are and what you are currently doing now.<br><br>This is a good spot to talk yourself up.",
+  "ExperienceText": "I am a Computer Science student at Seattle Pacific University and a Division II college basketball player. Balancing athletics and academics has strengthened my discipline, time management, and ability to perform under pressure. Beyond coursework, I’ve worked on production-level systems at Unique Minds, contributing to a real-world printing pipeline and application features used by active users. I'm especially interested in real work that can be applied to real life.",
   "School": "Seattle Pacific University",
-  "Major": "Computer Science",
-  "Graduation": "June 2023",
-  "EducationText": "Use this to add some narrative to your education section",
+  "Major": "Computer Science & Exercise Science",
+  "Graduation": "June 2028",
+  "EducationText": "Through my time at SPUI (and PacificU) I’ve built a strong foundation in data structures, algorithms, object-oriented programming, and systems design. My coursework includes implementing ADTs, inheritance-based architectures, and algorithmic problem solving in C++. Through projects and GitHub-based assignments, I’ve developed experience writing efficient code, debugging complex logic, and understanding how software components interact at a systems level.",
   "Employment": "Seattle Pacific University",
-  "Role": "Computer Science Lab Assistant",
-  "EmploymentText": "Use this to add some narrative to your employment section",
-  "Skills": ["C++", " JavaScript", " Node", " CSS"," HTML"],
-  "SkillsText": "Use this to add some narrative to your skills section",
+  "Role": "Student",
+  "EmploymentText": "At Unique Minds, I worked on building and improving components of a live application and printing pipeline system. I contributed to generating dynamic print layouts, handling structured data flows, and supporting workflow logic used in real production environments. My work required writing clean, reliable code that interacted with multiple parts of the system, including frontend layout rendering and backend logic. Through this experience, I gained hands-on exposure to real-world software development, system reliability, and the importance of writing maintainable code in a collaborative environment. Which eventually led to a working product I was able to debut at the Washington State Disabilities Fair to great success!",
+  "Skills": ["C++", " JavaScript", "NodeJS",," HTML"],
+  "SkillsText": "I have strong experience in C++ through data structures and algorithm-heavy coursework at both SPU and Pu. I worked with JavaScript and Node in real-world applications at Unique Minds, contributing to backend logic and workflow features in a live printing pipeline system. On the frontend, I use HTML and CSS to create clean, responsive layouts. I’m comfortable working across the stack and adapting quickly to new tools and environments. As well as incorporating AI to help stream line the entire process.",
   "Resume": "student-resume.pdf"  
 },
 "Project1": {
