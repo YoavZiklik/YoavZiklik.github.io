@@ -22,7 +22,7 @@
   "Employment": "Seattle Pacific University",
   "Role": "Student",
   "EmploymentText": "At Unique Minds, I worked on building and improving components of a live application and printing pipeline system. I contributed to generating dynamic print layouts, handling structured data flows, and supporting workflow logic used in real production environments. My work required writing clean, reliable code that interacted with multiple parts of the system, including frontend layout rendering and backend logic. Through this experience, I gained hands-on exposure to real-world software development, system reliability, and the importance of writing maintainable code in a collaborative environment. Which eventually led to a working product I was able to debut at the Washington State Disabilities Fair to great success!",
-  "Skills": ["C++", " JavaScript", "NodeJS",," HTML"],
+  "Skills": ["C++", " JavaScript", "NodeJS"," HTML"],
   "SkillsText": "I have strong experience in C++ through data structures and algorithm-heavy coursework at both SPU and Pu. I worked with JavaScript and Node in real-world applications at Unique Minds, contributing to backend logic and workflow features in a live printing pipeline system. On the frontend, I use HTML and CSS to create clean, responsive layouts. I’m comfortable working across the stack and adapting quickly to new tools and environments. As well as incorporating AI to help stream line the entire process.",
   "Resume": "student-resume.pdf"  
 },
