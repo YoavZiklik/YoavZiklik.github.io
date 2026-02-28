@@ -27,9 +27,9 @@
   "Resume": "student-resume.pdf"  
 },
 "Project1": {
-    "Title": "Interesting Project 1",
-    "Desc": "This is a description of Project One.<br><br>It has a GitHub repo and more details shown in screenshots.",
-    "GitHubRepo": "https://github.com",
+    "Title": "Printing Pipeline and automation AKA MerchMachine",
+    "Desc": "Built and improved components of a live production printing system used in a startup environment. Implemented dynamic layout generation, structured data handling, and backend workflow logic. The system was deployed and demonstrated at the Washington State Disabilities Fair. As well as integrating with Google FireBase DB for real time updates from customer data.",
+    "GitHubRepo": "",
     "MainImage": "P1Main.png",
     "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
   },
