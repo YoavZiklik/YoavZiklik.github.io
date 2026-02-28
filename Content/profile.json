@@ -28,23 +28,23 @@
 },
 "Project1": {
     "Title": "Printing Pipeline and automation AKA MerchMachine",
-    "Desc": "Built and improved components of a live production printing system used in a startup environment. Implemented dynamic layout generation, structured data handling, and backend workflow logic. The system was deployed and demonstrated at the Washington State Disabilities Fair. As well as integrating with Google FireBase DB for real time updates from customer data.",
+    "Desc": "Built and improved components of a live production printing system used in a startup environment. Implemented dynamic layout generation, structured data handling, and backend workflow logic. The system was deployed and demonstrated at the Washington State Disabilities Fair. As well as integrating with Google FireBase DB for real time updates from customer data. I do not have a github repo I can share for this project. ",
     "GitHubRepo": "",
     "MainImage": "P1Main.png",
     "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
   },
   "Project2": {
-    "Title": "Interesting Project 2",
+    "Title": "BasketballShotTrackerApp",
     "Desc": "This is a description of Project Two.<br><br>It also has a GitHub repo and more details shown in screenshots.",
     "GitHubRepo": "https://github.com",
     "MainImage": "P2Main.png",
     "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
   },
   "Project3": {
-    "Title": "Interesting Project 3",
-    "Desc": "This is a description of Project Three.<br><br>It does not have a GitHub repo or any additional screenshots.",
-    "GitHubRepo": "",
-    "MainImage": "P3Main.png",
+    "Title": "",
+    "Desc": "",
+    "GitHubRepo" "",
+    "MainImage": "",
     "DetailImages": []
   },
   "Project4": {
